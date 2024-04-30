@@ -1,11 +1,11 @@
 ### Hi there 👋, i am MERN Stack Developer currently working in INFOSYS ltd. 
-### I am currently open to work. Please reach out to me for Hiring  [MyEmail](mailto:satyajitrakhunde@gmail.com)
+### I am currently open to work. Please reach out to me for Hiring | [MyEmail](mailto:satyajitrakhunde@gmail.com)
 
 
 - 🔭 I’m currently working on MERN Tech stack
 - 💬 Ask me about Web Development
 - 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyajit-rakhunde/)  , [MyEmail](mailto:satyajitrakhunde@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/satyajit-rakhunde/)  , [MyEmail](mailto:satyajitrakhunde@gmail.com)
 
 
 
