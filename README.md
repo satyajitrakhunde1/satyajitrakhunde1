@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there 👋, i am MERN Stack Developer currently working in INFOSYS ltd. 
+###I am currently open to work. Please reach out to me for Hiring [Email](mailto:satyajitrakhunde@gmail.com)
 
-**satyajitrakhunde1/satyajitrakhunde1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on MERN Tech stack
-- 🌱 I’m currently learning Authentication system 
 - 💬 Ask me about Web Development
-- 📫 How to reach me: linkedIn:https://www.linkedin.com/in/satyajit-rakhunde/ , Email: satyajitrakhunde@gmail.com
+- 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyajit-rakhunde/)  , [Email](mailto:satyajitrakhunde@gmail.com)
+
 
 
 ## 🌐 Socials:
