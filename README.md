@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **satyajitrakhunde1/satyajitrakhunde1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on MERN Tech stack
@@ -24,4 +23,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
--->
+
