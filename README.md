@@ -2,7 +2,6 @@
 ### I am currently open to work. Please reach out to me for Hiring | [Email](mailto:satyajitrakhunde@gmail.com)
 
 
- 
 - 🔭 I’m currently working on MERN Tech stack
 - 💬 Ask me about Web Development
 - 📫 How to reach me:
