@@ -1,5 +1,5 @@
 ### Hi there 👋, i am MERN Stack Developer currently working in INFOSYS ltd. 
-[Portfolio](portfolio-i9cg.vercel.app)
+[Portfolio](https://portfolio-i9cg.vercel.app)
 ### I am currently open to work. Please reach out to me for Hiring | [Email](mailto:satyajitrakhunde@gmail.com)
 
 
